@@ -9,4 +9,9 @@ Setup for neo-vim
 - Source the file `source %`, re-run `:PlugInstall` (should install CoC)
 
 ## Required
+- Homebrew (kinda optional)
+- Install yarn
 - Globally install yarn ‘yarn global add neovim’
+
+## Optional
+- Install IMB font
