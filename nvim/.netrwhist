@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/dw/projects/vanillawebprojects/ts-test'
+let g:netrw_dirhist_2='/Users/dw/projects/vanillawebprojects/breakout-game'
+let g:netrw_dirhist_1='/Users/dw/projects/vanillawebprojects'
+let g:netrw_dirhist_0='/Users/dw/projects'
+let g:netrw_dirhist_9='/Users/dw'
+let g:netrw_dirhist_8='/Users/dw/.config/nvim'
+let g:netrw_dirhist_7='/Users/dw/nvim'
+let g:netrw_dirhist_6='/Users/dw'
+let g:netrw_dirhist_5='/Users/dw/.config/nvim'
+let g:netrw_dirhist_4='/Users/dw/.config'
