@@ -17,4 +17,5 @@ Setup for neo-vim
 ## Optional
 - Install IMB font
 - Install Iterm
--
+- Install zsh
+- Remap caps lock to escape, this can be done within system > keyboard > modified keys
