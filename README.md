@@ -7,6 +7,7 @@ Setup for neo-vim
 - Neovim: `brew install neovim`
 - Create the nvim config directory `.config/nvim/init.vim` file at the root directory
 - Ag (the silver searcher)
+- CoC Prettier - follow the github guide /coc-prettier
 
 ## How to setup
 - Download this repo, and replace the default `.config/nvim/init.nvm` file with the `nvim/init.nvm`
