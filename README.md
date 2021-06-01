@@ -6,6 +6,7 @@ Setup for neo-vim
 - Homebrew
 - Neovim: `brew install neovim`
 - Create the nvim config directory `.config/nvim/init.vim` file at the root directory
+- Ag (the silver searcher)
 
 ## How to setup
 - Download this repo, and replace the default `.config/nvim/init.nvm` file with the `nvim/init.nvm`
@@ -15,3 +16,5 @@ Setup for neo-vim
 
 ## Optional
 - Install IMB font
+- Install Iterm
+-
