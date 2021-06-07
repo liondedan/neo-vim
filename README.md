@@ -16,7 +16,7 @@ Setup for neo-vim
 - Source the file `source %`, re-run `:PlugInstall` (should install CoC)
 
 ## Optional
-- Install IMB font
+- Install IBM font
 - Install Iterm
 - Install zsh
 - Remap caps lock to escape, this can be done within system > keyboard > modified keys
